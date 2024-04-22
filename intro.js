@@ -1,0 +1,1 @@
+console.log("hallo ini adalah program js eksternal")

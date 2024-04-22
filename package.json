@@ -1,0 +1,14 @@
+{
+  "name": "git-lokal",
+  "version": "1.0.0",
+  "description": "aplikasi js sanber part-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node intro.js"
+  },
+  "author": "fredika benz",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
